@@ -1,0 +1,3 @@
+O comando Status nos mostra o estado do staging atual, com as propostas de arquivos a serem inseridas via commit posteriormente
+
+uso: git status

@@ -1,0 +1,3 @@
+O comando commit realiza as mudanças que estavam previamente estagiadas.
+
+uso: git commit
