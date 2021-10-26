@@ -1,0 +1,3 @@
+O comando clone serve para clonar um repositório em sua máquina local. Ele copia os arquivos do repositório remoto em sua forma integral.
+
+Uso: git clone <url>
